@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Сидр</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Заголовки -->
+    <string name="dry">Сухой</string>
+    <string name="semiDry">Полу-сухой</string>
+    <string name="sweet">Сладкий</string>
+    <string name="semiSweet">Полу-сладкий</string>
+    <string name="other">Остальные</string>
+
+    <!-- Подпись на панели навигации -->
+    <string name="user_name">Бла-бла-бла</string>
+
+    <!-- Заголовки в панели навигации -->
+    <string name="nav_sider">Яблочный</string>
+    <string name="nav_puare">Грушевый</string>
+
+    <!-- Действие с навигационной панелью -->
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+
+</resources>
